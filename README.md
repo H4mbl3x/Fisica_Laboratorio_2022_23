@@ -14,6 +14,6 @@ Componentes
     ./  
         - README.md -> Este fichero.
 
-    ./doc -> Directorio con el enunciado (en PDF) del laboraiorio.
+    ./doc -> Directorio con el enunciado (en PDF) del laboraiorio y una guía de R (instalación y primeros pasos).
     
     ./src -> Directorio con el código fuente de la práctica (fichero .R).
