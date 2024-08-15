@@ -3,7 +3,7 @@ title: README
 author: Andrés García López
 abstract: Laboratorio de Física del curso 2022/23
 date: Curso 2022/23
-lang: en-EN
+lang: es-ES
 ---
 
 # Laboratorio Física 2022/23
